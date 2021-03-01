@@ -44,7 +44,7 @@ This assignment will challenge you to polish your FinTech research skills by acc
 
 * Lending
 
-<b>*** Blockchain and Cryptocurrencies**</b>
+<b>Blockchain and Cryptocurrencies</b>
 
 * Regulation Technology (RegTech)
 
@@ -88,15 +88,13 @@ We recommend that you use the case study template below in order to focus your r
 Cosmos Network
 
 * When was the company incorporated?
-The company is formed by two main parties: the firts one is a non-for-profit ofrganization (NGO) based in Genevan, Switzerland called ICF (Inter-change found).  This NGO was created with the objective of execute the plans of creation of this Internet of Blockchains. This was going to be called as the COSMOS network later. 
+The company is formed by two main parties: the first one is a non-for-profit ofrganization (NGO) based in Geneva, Switzerland called ICF (Inter-change found).  This NGO was created with the objective of execute the plans of creation of this Internet of Blockchains. This was going to be called as the COSMOS network later. 
 
 Together with ICF, there was a software development company calles "All in Bits", which was also known as Tendermint Inc. This software development company was hired by the ICF in order to develop and deploy the firsts versions of this network.
 
-In 2015, COSMOS co-founders, Ethan Buchman and Jae Kwon started developing Tendermint. This was the implementation of the tools and platforms required for this network of blackchains to inteconnect.  Tendermint, was the first application that used Byzantine Fault Tolerance (BFT) in a world of "Proof of Stake" (PoS) blockchains.
- 
 
 * Who are the founders of the company?
-
+In 2015, COSMOS co-founders, Ethan Buchman and Jae Kwon started developing Tendermint. This was the implementation of the tools and platforms required for this network of blackchains to inteconnect.  Tendermint, was the first application that used Byzantine Fault Tolerance (BFT) in a world of "Proof of Stake" (PoS) blockchains.
 
 * How did the idea for the company (or project) come about?
 
